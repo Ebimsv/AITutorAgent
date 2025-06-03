@@ -2,9 +2,8 @@ import time
 from openai import OpenAI
 
 # Single API key
-# API_KEY = "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"
-# API_KEY = "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" # API premium
-API_KEY = "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"
+API_KEY = "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"
+# API_KEY = "sk-or-v1-"
 
 # Create a single client
 client = OpenAI(
