@@ -26,8 +26,8 @@ An interactive AI-powered tutoring system built with LangGraph that can teach us
 Clone the repository and install dependencies:
 
 ```bash
-git clone <repository-url>
-cd AI-tutor
+git clone git@github.com:Ebimsv/AITutorAgent.git
+cd AITutorAgent
 pip install -r requirements.txt
 ```
 
